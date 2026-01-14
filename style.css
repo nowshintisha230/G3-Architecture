@@ -4,8 +4,12 @@ body{
   font-family: "Work Sans";
  
 }
-
-
+ section:hover , nav:hover  ,#section-1:hover , .arc:hover , .footer:hover , .spon-title {
+background-color:rgb(188, 218, 231);
+}
+.spon:hover , .card:hover , .card2-0:hover{
+    background-color: gold;
+}
 p{
     color:grey;
 }
